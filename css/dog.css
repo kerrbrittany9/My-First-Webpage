@@ -1,0 +1,16 @@
+body {background-color: gray;
+}
+h1 {
+  text-align: center;
+  color: red;
+}
+
+img { width: 700px; height: 400px;
+  align-content: center;
+}
+p {
+  color: blue;
+  font-style:oblique;
+  font-weight: bolder;
+  line-height:normal;
+}
